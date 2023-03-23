@@ -1,0 +1,45 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+    background-color:rgb(128, 128, 50);
+    overflow: scroll;
+
+}
+
+
+.headerTache{
+  font-size: 3vh;
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content:baseline;
+  color: black;
+  background-color: rgb(206, 206, 206);
+  padding-left: 100px;
+  padding-right: 100px;
+
+    
+}
+
+.footerTache{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(206, 206, 206);
+  justify-content:space-between ;
+  margin-top: 670px;
+  padding: 30px;
+  
+
+
+
+
+
+}
+#nomtache{
+  width: 250px;
+  height: 50px;
+}
+
